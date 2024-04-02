@@ -1,0 +1,71 @@
+.Navbar-Second {
+  background: #0c0b1b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1.5rem;
+}
+.Navbar-Third {
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  color: white;
+}
+.list-item-classs ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5vh;
+  text-decoration: none !important;
+  list-style-type: none;
+}
+.list-item-classs li {
+  font-size: 13px;
+  font-weight: 400;
+}
+.logo-classs {
+  margin-right: 4vh;
+  font-size: 2.2vh;
+  font-weight: 600;
+}
+.right-bar-classs {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+.input-field-classs input {
+  background: black;
+  padding: 3px 3px;
+  border-radius: 20px;
+  color: white;
+  padding-left: 0.5rem;
+}
+.input-field-classs input::placeholder {
+  background-color: #141323;
+  color: white;
+}
+
+.userProfile-img-classs {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+.ball-icons-classs {
+  padding: 3px 6px;
+  background: #151424;
+  border-radius: 16px;
+}
+
+.button-classs button {
+  background: #306eb2;
+  color: white;
+  font-size: 10px;
+  border: none;
+  border-radius: 15px;
+  padding: 7px 15px;
+  margin: 0;
+  outline: none;
+}
