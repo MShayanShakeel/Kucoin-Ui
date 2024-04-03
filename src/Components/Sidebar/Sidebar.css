@@ -14,8 +14,9 @@
     font-size: 13px;
 }
 .sidebar-Third-classs ul li svg{
-    margin-right: 1rem;
+    margin: 1px 0.5rem;
 }
 .sidebar-Third-classs ul li:hover{
     background: linear-gradient(to right, #3286CA, #2567BD, #1757B6);
+    border-radius: 10px;
 }

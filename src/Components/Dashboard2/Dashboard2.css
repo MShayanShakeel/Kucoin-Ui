@@ -1,0 +1,51 @@
+.Dsahboard-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.total-Assets-card {
+  width: 50%;
+  border-radius: 13px;
+  background-color: #0D1F22;
+  margin: 1px 5px;
+}
+.total-Assets-card-2{
+    width: 100%;
+    border-radius: 13px;
+    background-color: #0D1F22;
+    margin: 1px 5px;
+}
+.Assets-card-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem 1px;
+  gap: 10px;
+}
+.oimagesss {
+    width: 100%;
+    margin: auto;
+    height: 25vh;
+}
+.ProfileAndProfileName-section-2{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.Favorites-hot-button button{
+    padding: 0.5rem 0.5rem;
+    border-radius: 10px;
+    border: none;
+    margin: 0px 5px;
+    background: #09292A;
+}
+.Favorites-hot-button button:hover{
+    background-color: transparent;
+    /* border: solid  white; */
+}
+.table-class-main{
+    border-radius: 17px;
+    background: wheat;
+    border-radius: 12px;
+    padding: 0px 0.5rem;
+}

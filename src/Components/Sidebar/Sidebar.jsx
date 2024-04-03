@@ -7,7 +7,7 @@ const Sidebar = () => {
   return (
     <>
       <div className="row sidebar-main-classs">
-        <div className="col-2 sidebar-Second-classs">
+        <div className="col-12 sidebar-Second-classs">
           <div className="sidebar-Third-classs">
             <ul>
               <li>
