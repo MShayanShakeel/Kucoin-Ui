@@ -1,7 +1,8 @@
 .Dashbord-Main-1 {
-  background-color: #03151f;
+  background-color: #081B21;
   padding: 0.5rem 0.5rem;
   border-radius: 13px;
+  margin:  1rem 1rem;
 }
 .profile-section-1 {
   display: flex;
@@ -18,7 +19,7 @@
   width: 50px;
   height: 50px;
   border-radius: 25px;
-  margin-right: 0.5rem;
+  margin: 10px 0.6rem;
 }
 .Span-text-div-target {
   color: #acbcc3;

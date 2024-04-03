@@ -60,7 +60,7 @@
 }
 
 .button-classs button {
-  background: #306eb2;
+  background: linear-gradient(to right, #3286CA, #2567BD, #1757B6);
   color: white;
   font-size: 10px;
   border: none;

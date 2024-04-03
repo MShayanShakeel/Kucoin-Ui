@@ -2,18 +2,19 @@
   align-items: center;
   display: flex;
   justify-content: space-between;
+  background-color: #081b21;
 }
 .total-Assets-card {
   width: 50%;
   border-radius: 13px;
-  background-color: #0D1F22;
-  margin: 1px 5px;
+  background-color: #0d1f22;
+  margin: 0.5rem 5px;
 }
-.total-Assets-card-2{
-    width: 100%;
-    border-radius: 13px;
-    background-color: #0D1F22;
-    margin: 1px 5px;
+.total-Assets-card-2 {
+  width: 100%;
+  border-radius: 13px;
+  background-color: #0d1f22;
+  margin: -5px 5px 1rem 5px;
 }
 .Assets-card-buttons {
   display: flex;
@@ -23,29 +24,67 @@
   gap: 10px;
 }
 .oimagesss {
-    width: 100%;
-    margin: auto;
-    height: 25vh;
+  width: 100%;
+  margin: auto;
+  max-height: 23vh;
+  padding: 5px;
 }
-.ProfileAndProfileName-section-2{
-    display: flex;
-    justify-content: start;
-    align-items: center;
+.ProfileAndProfileName-section-2 {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  border: 0.5px solid #606c6f;
+  border-radius: 10px;
+  margin: 5px 5px;
+  max-height: 11vh;
 }
-.Favorites-hot-button button{
-    padding: 0.5rem 0.5rem;
-    border-radius: 10px;
-    border: none;
-    margin: 0px 5px;
-    background: #09292A;
+.Favorites-hot-button button {
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  border: none;
+  margin: 1px 5px 1rem 1px;
+  background: #0a292b;
 }
-.Favorites-hot-button button:hover{
-    background-color: transparent;
-    /* border: solid  white; */
+.Favorites-hot-button button:hover {
+  background-color: transparent;
+  /* border: solid  white; */
 }
-.table-class-main{
-    border-radius: 17px;
-    background: wheat;
-    border-radius: 12px;
-    padding: 0px 0.5rem;
+.table-class-main {
+  border-radius: 17px;
+  background: #0b151e;
+  border-radius: 12px;
+  margin: 0px 0.5rem;
+}
+.table-class-main td {
+  background-color: #0d1f22;
+}
+.table-class-main th {
+  background-color: #0d1f22;
+}
+.table-class-main tr:hover {
+  background-color: wheat;
+  border: 1px solid #9C9C9C;
+}
+.table-main-classs {
+  border: 1px solid;
+  border-radius: 10px;
+}
+.Heading-classs-bottom-component {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0.6rem;
+}
+.bottono-section-cards{
+  border-radius: 10px;
+  border: solid 0.5px #606c6f;
+  background-color: #0B292B;
+  color: #acbcc3;
+  padding: 4px;
+  margin: 5px 0.6rem;
+}
+.bottono-section-cards p{
+  display: flex;
+  align-items: center;
+  margin: auto;
 }

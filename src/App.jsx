@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.css";
 // import Navbar from './Components/Navbar/Navbar'
 // import Sidebar from "./Components/Sidebar/Sidebar";
 // import Dashbord from './Components/DashBord/Dashbord';

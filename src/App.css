@@ -1,1 +1,11 @@
-http://127.0.0.1:5173/
+* {
+  margin: 0;
+  padding: 0;
+}
+.Main-Dashboard-classs {
+  width: 100% !important;
+  /* height: 100vh !important; */
+  background-color: #070b16;
+  margin-right: calc(-0.0 * var(--bs-gutter-x));
+  margin-left: calc(-0.0 * var(--bs-gutter-x));
+}

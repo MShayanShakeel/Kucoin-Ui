@@ -3,11 +3,12 @@ import Navbar from "./Components/Navbar/Navbar";
 import Sidebar from "./Components/Sidebar/Sidebar";
 import Dashbord from "./Components/DashBord/Dashbord";
 import Dashboard2 from "./Components/Dashboard2/Dashboard2";
+import "./App.css";
 
 const DashBoardMain = () => {
   return (
     <>
-      <div className="row">
+      <div className="row Main-Dashboard-classs">
         <div className="col-12">
           <Navbar />
           <div className="col-12 " style={{ display: "flex" }}>
